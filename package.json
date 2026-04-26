@@ -1,0 +1,13 @@
+{
+  "name": "mxt-store",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "pix-payload": "^1.0.3"
+  }
+}
